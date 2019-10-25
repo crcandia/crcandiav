@@ -1,6 +1,6 @@
 ---
 title: "Cabildos Chile 2016"
-excerpt: "Visualización del valor 'Justicia'"
+excerpt: "Visualización Cabildos Chile 2019"
 collection: portfolio
 ---
 
