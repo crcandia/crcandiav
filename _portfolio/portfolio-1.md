@@ -4,7 +4,7 @@ excerpt: "Visualizaciones y analisis de los cabildos realizados en Chile en 2016
 collection: portfolio
 ---
 
-Visualización del valor Principio
+Visualización del valor "Justicia"
 --------
 Las relaciones entre las palabras surgen desde los documentos que se generaron en cada uno de los cabildos para cada valor y principio seleccionado. Posteriormente, dichos textos fueron normalizados y representados en una estructura Chomskiana (gramática generativa), donde se identificaron: sujeto, sintagma verbal, sintagma nominal y complemento. Luego se clasificaron en textos valorativos, fácticos y propositivos. Así, los árboles de palabras se construyen usando ambos sintagmas y el complemento de todos los textos propositivos. 
 
