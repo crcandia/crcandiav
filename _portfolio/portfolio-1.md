@@ -1,6 +1,6 @@
 ---
 title: "Cabildos Chile 2016"
-excerpt: "Visualizaciones y analisis de los cabildos realizados en Chile en 2016"
+excerpt: "Visualización del valor 'Justicia'"
 collection: portfolio
 ---
 
