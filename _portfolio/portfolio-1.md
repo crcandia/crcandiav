@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Cabildos Chile 2016"
+excerpt: "Visualizaciones y analisis de los cabildos realizados en Chile en 2016<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
