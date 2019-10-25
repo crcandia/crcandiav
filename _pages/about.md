@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral fellow at the [ Kellogg School of Management](http://www.kellogg.northwestern.edu/), Northwestern University, working with Prof. Brian Uzzi and Prof. Nour Kteily. Besides, I am an Assistant Professor at the Center for Social Complexity [(CICS)](https://complejidadsocial.udd.cl/), School of Government, Universidad del Desarrollo, Chile. Previously, I developed my Ph.D. thesis at the Center for Social Complexity (Universidad del Desarrollo), <a href="https://www.media.mit.edu/" target="_blank"> MIT Media Lab</a> (Massachusetts Institute of Technology), and at the <a href="https://www.barabasilab.com/" target="_blank"> Center for Complex Networks Research</a> (Northeastern and Harvard University).
+I am a Post-Doctoral fellow at the [ Kellogg School of Management](http://www.kellogg.northwestern.edu/), Northwestern University, working with Prof. Brian Uzzi and Prof. Nour Kteily. Besides, I am an Assistant Professor at the Center for Social Complexity [(CICS)](https://complejidadsocial.udd.cl/), School of Government, Universidad del Desarrollo, Chile. Previously, I developed my Ph.D. thesis at the Center for Social Complexity (Universidad del Desarrollo), <a href="https://www.media.mit.edu/" target="_blank"> MIT Media Lab</a> (Massachusetts Institute of Technology), and at the <a href="https://www.barabasilab.com/" target="_blank"> Center for Complex Networks Research</a> (Northeastern and Harvard University).
 
 My work stands on the intersection of (big) data analysis and human behavior theories applied to socio-economic systems. Nowadays, my work focuses on computational social science and network science, particularly on hate speech dynamics, learning analytics, cooperative learning, higher education decision making, collective memory, and experimental game theory.
 
@@ -19,11 +19,15 @@ Recent Manuscripts
 ===================
 
 <ul>
-<li>Strategic reciprocity improves academic performance in public elementary school children. <br> <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. <br> Under Review in <strong>Nature Communications</strong> 2019. <a href="https://arxiv.org/abs/1909.11713" target="_blank"> ArXiv</a>. <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/" target="_blank"> Nature Communications</a>.</li>
+<li>Strategic reciprocity improves academic performance in public elementary school children. <br> <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. <br> Under Review in <strong>Nature Communications</strong> 2019. <a href="https://arxiv.org/abs/1909.11713" target="_blank"> ArXiv</a>. <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/" target="_blank"> Nature Communications</a>.
   
-   <ul> <li> Resources & Media: <a href="https://www.youtube.com/watch?v=jiFa58-Lugk" target="_blank"> Video</a> 
-  </li></ul>
+   <ul> 
+      <li> Resources & Media: <a href="https://www.youtube.com/watch?v=jiFa58-Lugk" target="_blank"> Video</a> 
+     </li>
+   </ul>
   
+</li>
+
   <br>
 
   
@@ -47,6 +51,18 @@ Recent Manuscripts
 <li>
   The Higher Education Space: Connecting degree programs from individuals' choices. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, and Flávio L. Pinheiro. <br> Under Review in <strong>EJP Data Science</strong> 2019. <a href="https://arxiv.org/abs/1810.03676" target="_blank"> ArXiv</a>.
   
+</li>
+
+<br>
+
+<li>
+  Understanding Water Disputes in Chile by Text and Data Mining tools <br> Mauricio Herrera, <strong>Cristian Candia</strong>, , Diego Rivera, Douglas Aitken, Daniel Brieba, Camila Boettiger, Guillermo Donoso, and Alex Godoy-Faúndez. <br> Published in <strong>Water International</strong> 2019. <a href="https://doi.org/10.1080/02508060.2019.1599774" target="_blank"> https://doi.org/10.1080/02508060.2019.1599774</a>.
+  
+ <ul> 
+   <li> Resources & Media: <a href="https://www.routledge.com/Legal-Perspectives-on-Bridging-Science-and-Policy/Tignino-Stephan-Martin-Nagle-McIntyre/p/book/9780367406851" target="_blank"> Book Chapter</a> 
+   </li>
+   </ul>
+   
 </li>
 </ul>
 
