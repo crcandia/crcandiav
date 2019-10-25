@@ -14,6 +14,6 @@ Las relaciones entre las palabras surgen desde los documentos que se generaron e
 
 
 
-Para más información sobre el proceso haz  <a href="https://www.unaconstitucionparachile.cl/memoria_proceso_constituyente.pdf" target="_blank">click acá</a>
+Para más información sobre el proceso constituyente abierto a la comunidad haz  <a href="https://www.unaconstitucionparachile.cl/memoria_proceso_constituyente.pdf" target="_blank">click acá</a>
 
 
