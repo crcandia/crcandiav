@@ -1,6 +1,6 @@
 ---
 title: "Cabildos Chile 2016"
-excerpt: "Visualizaciones y analisis de los cabildos realizados en Chile en 2016<br/><img src='/images/500x300.png'>"
+excerpt: "Visualizaciones y analisis de los cabildos realizados en Chile en 2016<br/><img>"
 collection: portfolio
 ---
 
