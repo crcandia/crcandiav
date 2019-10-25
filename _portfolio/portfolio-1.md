@@ -1,6 +1,6 @@
 ---
 title: "Cabildos Chile 2016"
-excerpt: "Visualización Cabildos Chile 2019"
+excerpt: "Visualización Cabildos Chile 2016"
 collection: portfolio
 ---
 
