@@ -45,7 +45,7 @@ Recent Manuscripts
   <br>
 
 <li>
-  The Higher Education Space: Connecting degree programs from individuals' choices. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, Flávio L. Pinheiro. <br> Under Review in <strong>EJP Data Science</strong> 2019. <a href="https://arxiv.org/abs/1810.03676" target="_blank"> ArXiv</a>.
+  The Higher Education Space: Connecting degree programs from individuals' choices. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, and Flávio L. Pinheiro. <br> Under Review in <strong>EJP Data Science</strong> 2019. <a href="https://arxiv.org/abs/1810.03676" target="_blank"> ArXiv</a>.
   
 </li>
 </ul>
