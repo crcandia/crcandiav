@@ -21,6 +21,6 @@ Recent Manuscripts
 <ul>
 <li><strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, Carlos Rodriguez-Sickert. Strategic reciprocity improves academic performance in public elementary school children. Under Review in <strong>Nature Communications</strong> 2019. <a href="https://arxiv.org/pdf/1909.11713.pdf/"> ArXiv</a>. <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/"> Nature Communications</a>.</li>
   
-<li> <strong> Cristian Candia} </strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, César Hidalgo. The universal decay of collective memory and attention. <a href="https://www.nature.com/articles/s41562-018-0474-5"> <strong> Nature Human Behaviour</strong></a>, doi: 10.1038/s41562-018-0474-5.  <a href="https://www.nature.com/articles/d41586-018-07719-w"> <strong> Nature editorial</strong></a>, <a href="https://go.nature.com/2Eoi0Rg"> <strong> Video</strong></a> </li>
+<li> <strong> Cristian Candia} </strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, César Hidalgo. The universal decay of collective memory and attention. <strong> Nature Human Behaviour</strong>  <a href="https://www.nature.com/articles/s41562-018-0474-5"> doi: 10.1038/s41562-018-0474-5. </a>  <a href="https://www.nature.com/articles/d41586-018-07719-w"> Nature editorial</a>, <a href="https://go.nature.com/2Eoi0Rg"> Video</a> </li>
 </ul>
 
