@@ -21,9 +21,10 @@ Recent Manuscripts
 <ul>
 <li><strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, Carlos Rodriguez-Sickert. Strategic reciprocity improves academic performance in public elementary school children. Under Review in <strong>Nature Communications</strong> 2019. <a href="https://arxiv.org/pdf/1909.11713.pdf/"> ArXiv</a>. <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/"> Nature Communications</a>.</li>
   
-<li> <strong> Cristian Candia</strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, César Hidalgo. The universal decay of collective memory and attention. Published in <strong> Nature Human Behaviour</strong>  <a href="https://www.nature.com/articles/s41562-018-0474-5"> doi: 10.1038/s41562-018-0474-5.</a>  <a href="https://www.nature.com/articles/d41586-018-07719-w"> Nature editorial</a>, <a href="https://go.nature.com/2Eoi0Rg"> Video</a>. 
+<li> <strong> Cristian Candia</strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, César Hidalgo. The universal decay of collective memory and attention. Published in <strong> Nature Human Behaviour</strong>  <a href="https://www.nature.com/articles/s41562-018-0474-5"> doi: 10.1038/s41562-018-0474-5.</a> <a href="https://go.nature.com/2Eoi0Rg"> Video</a>. 
 
- <ul> <li> Press: <a href="https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html"> El País.</a> | 
+ <ul> <li> Press: <a href="https://www.nature.com/articles/d41586-018-07719-w"> Nature editorial</a> |
+  <a href="https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html"> El País.</a> | 
              <a href="https://www.elespectador.com/noticias/ciencia/matematicos-midieron-el-declive-de-la-memoria-colectiva-articulo-828519"> El Espectador.</a> |
             <a href="https://www.scientificamerican.com/article/a-math-function-describes-how-whole-societies-remember-and-forget/"> Scientific American.</a> | 
             <a href="https://www.popsci.com/how-collective-memories-decay/?dom=rss-default&src=syn"> Popular Science.</a> | 
