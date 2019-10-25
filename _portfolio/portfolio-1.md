@@ -11,6 +11,9 @@ Las relaciones entre las palabras surgen desde los documentos que se generaron e
 
 <iframe src="https://github.com/crcandia/crcandiav/tree/master/viz/Justicia_valores.html" height="500" width="2000"></iframe>
 
+<iframe width="2000" height="500" src="https://github.com/crcandia/crcandiav/tree/master/viz/Justicia_valores.html" frameborder="0" allowfullscreen></iframe>
+
+
 Para más información sobre el proceso haz  <a href="https://www.unaconstitucionparachile.cl/memoria_proceso_constituyente.pdf" target="_blank">click acá</a>
 
 
