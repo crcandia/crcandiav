@@ -19,7 +19,7 @@ Recent Manuscripts
 ===================
 
 <ul>
-<li>Strategic reciprocity improves academic performance in public elementary school children. <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. Under Review in <strong>Nature Communications</strong> 2019. <a href="https://arxiv.org/abs/1909.11713" target="_blank"> ArXiv</a>. <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/" target="_blank"> Nature Communications</a>.</li>
+<li>Strategic reciprocity improves academic performance in public elementary school children. <br> <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. Under Review in <strong>Nature Communications</strong> 2019. <a href="https://arxiv.org/abs/1909.11713" target="_blank"> ArXiv</a>. <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/" target="_blank"> Nature Communications</a>.</li>
   
    <ul> <li> Resources & Media: <a href="https://www.youtube.com/watch?v=jiFa58-Lugk" target="_blank"> Video</a> 
   </li></ul>
@@ -45,7 +45,7 @@ Recent Manuscripts
   <br>
 
 <li>
-  The Higher Education Space: Connecting degree programs from individuals' choices. <strong>Cristian Candia</strong>, Sara Encarnacao, Flávio L. Pinheiro. Under Review in <strong>EJP Data Science</strong> 2019. <a href="https://arxiv.org/abs/1810.03676" target="_blank"> ArXiv</a>.
+  The Higher Education Space: Connecting degree programs from individuals' choices. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, Flávio L. Pinheiro. Under Review in <strong>EJP Data Science</strong> 2019. <a href="https://arxiv.org/abs/1810.03676" target="_blank"> ArXiv</a>.
   
 </li>
 </ul>
