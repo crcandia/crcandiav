@@ -1,5 +1,5 @@
 ---
-title: "Collective Memory"
+title: "Death and Collective Memory"
 excerpt: "How many famous people will die in 2017?"
 collection: portfolio
 ---
