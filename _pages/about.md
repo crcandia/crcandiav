@@ -27,7 +27,7 @@ Recent Manuscripts
   <br>
 
   
-<li> <strong> Cristian Candia</strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, and César Hidalgo. The universal decay of collective memory and attention. Published in <strong> Nature Human Behaviour</strong>  <a href="https://www.nature.com/articles/s41562-018-0474-5"> doi: 10.1038/s41562-018-0474-5.</a>  
+<li> <strong> Cristian Candia</strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, and César Hidalgo. The universal decay of collective memory and attention. Published in <strong> Nature Human Behaviour</strong> 2019.  <a href="https://www.nature.com/articles/s41562-018-0474-5"> doi: 10.1038/s41562-018-0474-5.</a>  
 
  <ul> <li> Resources & Media: <a href="https://go.nature.com/2Eoi0Rg"> Video</a> |
   <a href="https://www.nature.com/articles/d41586-018-07719-w"> Nature editorial</a> |
