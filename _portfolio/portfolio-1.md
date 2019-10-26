@@ -18,21 +18,28 @@ Para más información sobre la normaliación y etiquetado manual de los textos,
 
 
 
+<br>
 
 Visualización del valor "Justicia"
 --------
 
-<iframe width="900" height="500" src="https://crcandia.github.io/crcandiav/files/Justicia_valores.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="600" src="https://crcandia.github.io/crcandiav/files/Justicia_valores.html" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
 
 Visualización del valor "Igualdad"
 --------
 
-<iframe width="900" height="500" src="https://crcandia.github.io/crcandiav/files/igualdad_valores.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="600" src="https://crcandia.github.io/crcandiav/files/igualdad_valores.html" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
 
 Visualización del valor "Dignidad"
 --------
 
-<iframe width="900" height="500" src="https://crcandia.github.io/crcandiav/files/dignidad_valores.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="600" src="https://crcandia.github.io/crcandiav/files/dignidad_valores.html" frameborder="0" allowfullscreen></iframe>
 
 
 
