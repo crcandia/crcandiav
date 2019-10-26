@@ -8,8 +8,7 @@ Todos compartimos (más o menos) el diagnóstico de la crisis del país, pero mu
 
 En ese proceso participaron más de 100 mil personas, en más de 8 mil reuniones (ELAS) en todo Chile. Por horas, discutieron y acordaron, entre otras cosas, los principios y valores que deberían inspirar una nueva Constitución.
 
-<iframe width="900" height="500" src="https://crcandia.github.io/crcandiav/files/cabildos_por_valores.pdf" frameborder="0" allowfullscreen></iframe>
-
+<img src="https://crcandia.github.io/crcandiav/files/cabildos_por_valores.png" alt="https://crcandia.github.io/crcandiav/files/cabildos_por_valores.pdf">
 
 Los 8 principios y valores mas discutidos, en orden, son: Justicia, Democracia, Igualdad, Medio Ambiente, Descentralización, Bien Común, Respeto y Dignidad. ¡Justicia es el primero de todos! ¿Pero qué significa?
 
