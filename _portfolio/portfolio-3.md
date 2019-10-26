@@ -1,5 +1,5 @@
 ---
-title: "The Higher Education Space: Platform for data-driven desicion-making"
+title: "The Higher Education Space: A platform for data-driven desicion-making"
 excerpt: "Data Driven Government"
 collection: portfolio
 ---
