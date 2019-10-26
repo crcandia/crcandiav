@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Post-Doctoral fellow at the <a href="http://www.kellogg.northwestern.edu/" target="_blank"> Kellogg School of Management</a>, Northwestern University, working with Prof. Brian Uzzi and Prof. Nour Kteily. Besides, I am an Assistant Professor at the Center for Social Complexity <a href="https://complejidadsocial.udd.cl/" target="_blank"> (CICS)</a>, School of Government, Universidad del Desarrollo, Chile. Previously, I conducted my Ph.D. research at the Center for Social Complexity (Universidad del Desarrollo), at the <a href="https://www.media.mit.edu/" target="_blank">MIT Media Lab</a> (Massachusetts Institute of Technology), and at the <a href="https://www.barabasilab.com/" target="_blank">Center for Complex Networks Research</a> (Northeastern and Harvard University).
 
-My work stands on the intersection of (big) data analysis and human behavior theories applied to socio-economic systems. Nowadays, my work focuses on computational social science and network science, particularly on hate speech dynamics, learning analytics, cooperative learning, higher education decision making, collective memory, and experimental game theory. Moreover, I co-lead a <a href="https://crcandia.github.io/crcandiav/portfolio/portfolio-3/" target="_blank"> FONDEF project </a> on data-driven decision-making for higher education, funded by the Ministry of Science and Technology and the Ministry of Education in Chile. I also run a startup that aims to recommend interventions for improving learning and co-existence in elementary schools.
+My work stands on the intersection of (big) data analysis and human behavior theories applied to socio-economic systems. Nowadays, my work focuses on computational social science and network science, particularly on hate speech dynamics, learning analytics, cooperative learning, higher education decision making, collective memory, and experimental game theory. Moreover, I am co-leading a <a href="https://crcandia.github.io/crcandiav/portfolio/portfolio-3/" target="_blank"> FONDEF project </a> on data-driven decision-making for higher education, funded by the Ministry of Science and Technology and the Ministry of Education in Chile. I also run a startup that aims to recommend interventions for improving learning and co-existence in elementary schools.
 
 My background is physics (B.Sc., Eng., and M.Sc.) and Social Complexity Science (M.Sc. and Ph.D.).
 
@@ -29,6 +29,8 @@ Recent Manuscripts
   
    <ul> 
       <li> Resources & Media: <a href="https://www.youtube.com/watch?v=jiFa58-Lugk" target="_blank"> Video</a> 
+      <li> Resources & Media: <a href="http://www.juecoo.udd.cl/wp/" target="_blank"> Prototype </a>  
+        
      </li>
    </ul>
   
