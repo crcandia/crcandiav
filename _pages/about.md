@@ -14,7 +14,7 @@ My work stands on the intersection of (big) data analysis and human behavior the
 
 My background is physics (B.Sc., Eng., and M.Sc.) and Social Complexity Science (M.Sc. and Ph.D.).
 
-(Click <a href="http://www.udec.cl/exalumnos/node/4482" target="_blank"> acá</a> para una entrevista en español de mi Alma Mater.)
+(Click <a href="http://www.udec.cl/exalumnos/node/4482" target="_blank"> acá</a> para una entrevista en español realizada por mi Alma Mater.)
 
 <iframe width="500" height="300" src="https://www.youtube.com/embed/kYHLZZhG5Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
