@@ -12,7 +12,7 @@ I am a Post-Doctoral fellow at the [ Kellogg School of Management](http://www.ke
 
 My work stands on the intersection of (big) data analysis and human behavior theories applied to socio-economic systems. Nowadays, my work focuses on computational social science and network science, particularly on hate speech dynamics, learning analytics, cooperative learning, higher education decision making, collective memory, and experimental game theory.
 
-My background is physics (Bs.C., Eng., and Ms.C.) and Social Complexity Science (Ms.C. and Ph.D.).
+My background is physics (B.Sc., Eng., and M.Sc.) and Social Complexity Science (M.Sc. and Ph.D.).
 
 (Click <a href="http://www.udec.cl/exalumnos/node/4482" target="_blank"> acá</a> para una entrevista en español de mi Alma Mater.)
 
