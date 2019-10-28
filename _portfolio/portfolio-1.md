@@ -43,7 +43,7 @@ Visualización del valor "Dignidad"
 
 <br>
 
-Visualización del valor "Medio Ambiente"
+Visualización del valor "Respeto/Conservación de la Naturaleza o el Medio Ambiente"
 --------
 
 <iframe width="900" height="600" src="https://crcandia.github.io/crcandiav/files/mambiente_valores.html" frameborder="0" allowfullscreen></iframe>
