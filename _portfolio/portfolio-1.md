@@ -41,6 +41,12 @@ Visualización del valor "Dignidad"
 
 <iframe width="900" height="600" src="https://crcandia.github.io/crcandiav/files/dignidad_valores.html" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
+Visualización del valor "Medio Ambiente"
+--------
+
+<iframe width="900" height="600" src="https://crcandia.github.io/crcandiav/files/mambiente_valores.html" frameborder="0" allowfullscreen></iframe>
 
 
 Para más información sobre el proceso constituyente abierto a la comunidad haz  <a href="https://www.unaconstitucionparachile.cl/memoria_proceso_constituyente.pdf" target="_blank">click acá</a>
