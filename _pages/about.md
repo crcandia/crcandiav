@@ -60,7 +60,7 @@ Recent Manuscripts
 <li>
   The Higher Education Space: Connecting degree programs from individuals' choices. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, and Flávio L. Pinheiro. <br> Published in <strong>EJP Data Science</strong> 2019. <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0218-4" target="_blank"> ArXiv</a>.
   <ul> 
-   <li> Resources & Media: <a href="https://complejidadsocial.udd.cl/2019/news/cics-udd-is-awarded-a-fondef-to-develop-a-platform-that-allows-a-better-decision-in-higher-education/" target="_blank">Institutional press (ENG)</a> | 
+   <li> Resources & Media: <a href="https://complejidadsocial.udd.cl/2019/news/cics-udd-is-awarded-a-fondef-to-develop-a-platform-that-allows-a-better-decision-in-higher-education/" target="_blank">Institutional news (ENG)</a> | 
  <a href="https://dccs.udd.cl/2019/08/28/cics-udd-se-adjudica-fondef-para-desarrollar-plataforma-que-permita-una-mejor-decision-en-la-educacion-superior/" target="_blank">Prensa institucional (ESP)</a> 
    </li>
    </ul>
