@@ -14,4 +14,4 @@ Click <a href="https://complejidadsocial.udd.cl/2019/news/cics-udd-is-awarded-a-
 
 Click <a href="https://dccs.udd.cl/2019/08/28/cics-udd-se-adjudica-fondef-para-desarrollar-plataforma-que-permita-una-mejor-decision-en-la-educacion-superior/" target="_blank">acá</a> para más información sobre el proyecto (ESP). 
 
-Click <a href="https://www.researchgate.net/publication/328134023_The_Higher_Education_Space_Connecting_Degree_Programs_from_Individuals'_Choices" target="_blank">here</a> for our seminal paper.
+Click <a href="https://doi.org/10.1140/epjds/s13688-019-0218-4" target="_blank">here</a> for our seminal paper.
