@@ -50,7 +50,7 @@ Recent Manuscripts
             <a href="https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html" target="_blank"> EMOL</a> |
             <a href="https://www.cooperativa.cl/noticias/sociedad/ciencia/cientificos-chilenos-demostraron-como-nuestras-canciones-y-personajes-favoritos-dejan-de-serlo/2018-12-11/123529.html" target="_blank"> Cooperativa</a> |
             <a href="https://www.nkj.ru/news/35104/" target="_blank"> NKJ</a> |
-           <a href="https://www.vozpopuli.com/altavoz/next/tarda-olvidar-Holocausto_0_1327968057.html" target="_blank"> vozpopuli</a>
+           <a href="https://www.vozpopuli.com/altavoz/next/tarda-olvidar-Holocausto_0_1327968057.html" target="_blank"> Vozpopuli</a>
   </li></ul>
 
 </li>
