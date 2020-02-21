@@ -11,7 +11,7 @@ I lead a <a href="https://www.conicyt.cl/fondef/2019/01/08/concurso-idea-id-2019
 <!-- <img src="https://crcandia.github.io/crcandiav/files/hes.png" alt="HES"> -->
 
 
-<iframe width="900" height="600" src="https://datoslab.cl/hes/index.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="900" src="https://datoslab.cl/hes/index.html" frameborder="0" allowfullscreen></iframe>
 
 
 Click <a href="https://complejidadsocial.udd.cl/2019/news/cics-udd-is-awarded-a-fondef-to-develop-a-platform-that-allows-a-better-decision-in-higher-education/" target="_blank">here</a> for more information (ENG). 
