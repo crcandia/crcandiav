@@ -46,7 +46,7 @@ Recent Manuscripts
              <a href="https://www.elespectador.com/noticias/ciencia/matematicos-midieron-el-declive-de-la-memoria-colectiva-articulo-828519" target="_blank"> El Espectador</a> |
             <a href="https://www.scientificamerican.com/article/a-math-function-describes-how-whole-societies-remember-and-forget/" target="_blank"> Scientific American</a> | 
             <a href="https://www.popsci.com/how-collective-memories-decay/?dom=rss-default&src=syn" target="_blank"> Popular Science</a> | 
-            <a href="https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html" target="_blank"> EMOL</a> |
+            <a href="https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html" target="_blank"> emol</a> |
             <a href="https://www.cooperativa.cl/noticias/sociedad/ciencia/cientificos-chilenos-demostraron-como-nuestras-canciones-y-personajes-favoritos-dejan-de-serlo/2018-12-11/123529.html" target="_blank"> Cooperativa</a> |
             <a href="https://www.nkj.ru/news/35104/" target="_blank"> NKJ</a> |
            <a href="https://www.vozpopuli.com/altavoz/next/tarda-olvidar-Holocausto_0_1327968057.html" target="_blank"> Vozpopuli</a>
@@ -59,7 +59,7 @@ Recent Manuscripts
 <li>
   The Higher Education Space: Connecting degree programs from individuals' choices. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, and Flávio L. Pinheiro. <br> Published in <strong>EJP Data Science</strong> 2019. <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0218-4" target="_blank"> https://doi.org/10.1140/epjds/s13688-019-0218-4</a>.
   <ul> 
-   <li> Resources & Media:  <a href="https://www.emol.com/noticias/Nacional/2020/02/24/977398/Radiografia-a-las-postulaciones-universitarias.html" target="_blank">Emol (ESP)</a> | <a href="https://complejidadsocial.udd.cl/2019/news/cics-udd-is-awarded-a-fondef-to-develop-a-platform-that-allows-a-better-decision-in-higher-education/" target="_blank">Institutional news (ENG)</a> | 
+   <li> Resources & Media:  <a href="https://www.emol.com/noticias/Nacional/2020/02/24/977398/Radiografia-a-las-postulaciones-universitarias.html" target="_blank">emol (ESP)</a> | <a href="https://complejidadsocial.udd.cl/2019/news/cics-udd-is-awarded-a-fondef-to-develop-a-platform-that-allows-a-better-decision-in-higher-education/" target="_blank">Institutional news (ENG)</a> | 
  <a href="https://dccs.udd.cl/2019/08/28/cics-udd-se-adjudica-fondef-para-desarrollar-plataforma-que-permita-una-mejor-decision-en-la-educacion-superior/" target="_blank">Prensa institucional (ESP)</a> 
    </li>
    </ul>
