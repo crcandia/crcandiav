@@ -25,7 +25,7 @@ Recent Manuscripts
 ===================
 
 <ul>
-<li>Strategic reciprocity improves academic performance in public elementary school children. <br> <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. <br> Under Review in <strong>Nature Communications</strong> 2019.
+<li><a href="https://arxiv.org/abs/1909.11713" target="_blank"> Strategic reciprocity improves academic performance in public elementary school children</a>. <br> <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. <br> Under Review in <strong>Nature Communications</strong> 2019.
   
    <ul> 
       <li> Resources & Media: <a href="https://www.youtube.com/watch?v=jiFa58-Lugk" target="_blank"> Video</a> |
