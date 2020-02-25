@@ -30,7 +30,7 @@ Recent Manuscripts
    <ul> 
       <li> Resources & Media: <a href="https://www.youtube.com/watch?v=jiFa58-Lugk" target="_blank"> Video</a> |
       <a href="http://www.juecoo.udd.cl/wp/" target="_blank"> Prototype </a>  
-        
+       </li>
    </ul>
   
 </li>
@@ -50,7 +50,8 @@ Recent Manuscripts
             <a href="https://www.cooperativa.cl/noticias/sociedad/ciencia/cientificos-chilenos-demostraron-como-nuestras-canciones-y-personajes-favoritos-dejan-de-serlo/2018-12-11/123529.html" target="_blank"> Cooperativa</a> |
             <a href="https://www.nkj.ru/news/35104/" target="_blank"> NKJ</a> |
            <a href="https://www.vozpopuli.com/altavoz/next/tarda-olvidar-Holocausto_0_1327968057.html" target="_blank"> Vozpopuli</a>
-  </li></ul>
+      </li>
+ </ul>
 
 </li>
 
