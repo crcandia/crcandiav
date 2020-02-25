@@ -40,7 +40,7 @@ Recent Manuscripts
   <br>
 
   
-<li> The universal decay of collective memory and attention. <br> <strong> Cristian Candia</strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, and César Hidalgo. <br> Published in <strong> Nature Human Behaviour</strong> 2019.  <a href="https://www.nature.com/articles/s41562-018-0474-5" target="_blank">  https://doi.org/10.1038/s41562-018-0474-5.</a>  
+<li> <a href="https://www.nature.com/articles/s41562-018-0474-5" target="_blank">  The universal decay of collective memory and attention</a>. <br> <strong> Cristian Candia</strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, and César Hidalgo. <br> Published in <strong> Nature Human Behaviour</strong> 2019.  
 
  <ul> <li> Resources & Media: <a href="https://go.nature.com/2Eoi0Rg" target="_blank"> Video</a> |
   <a href="https://www.nature.com/articles/d41586-018-07719-w" target="_blank"> Nature editorial</a> |
@@ -75,7 +75,7 @@ Recent Manuscripts
 <br>
 
 <li>
-  Understanding Water Disputes in Chile by Text and Data Mining tools <br> Mauricio Herrera, <strong>Cristian Candia</strong>, , Diego Rivera, Douglas Aitken, Daniel Brieba, Camila Boettiger, Guillermo Donoso, and Alex Godoy-Faúndez. <br> Published in <strong>Water International</strong> 2019. <a href="https://doi.org/10.1080/02508060.2019.1599774" target="_blank"> https://doi.org/10.1080/02508060.2019.1599774</a>.
+  <a href="https://doi.org/10.1080/02508060.2019.1599774" target="_blank"> Understanding Water Disputes in Chile by Text and Data Mining tools</a>. <br> Mauricio Herrera, <strong>Cristian Candia</strong>, , Diego Rivera, Douglas Aitken, Daniel Brieba, Camila Boettiger, Guillermo Donoso, and Alex Godoy-Faúndez. <br> Published in <strong>Water International</strong> 2019.
   
  <ul> 
    <li> Resources & Media: <a href="https://www.routledge.com/Legal-Perspectives-on-Bridging-Science-and-Policy/Tignino-Stephan-Martin-Nagle-McIntyre/p/book/9780367406851" target="_blank"> Book Chapter</a> 
