@@ -25,11 +25,13 @@ Recent Manuscripts
 ===================
 
 <ul>
-<li>Strategic reciprocity improves academic performance in public elementary school children. <br> <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. <br> Under Review in <strong>Nature Communications</strong> 2019. <a href="https://arxiv.org/abs/1909.11713" target="_blank"> ArXiv</a>. <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/" target="_blank"> Nature Communications</a>.
+<li>Strategic reciprocity improves academic performance in public elementary school children. <br> <strong>Cristian Candia</strong>, Victor Landaeta-Torres, César A. Hidalgo, and Carlos Rodriguez-Sickert. <br> Under Review in <strong>Nature Communications</strong> 2019.
   
    <ul> 
       <li> Resources & Media: <a href="https://www.youtube.com/watch?v=jiFa58-Lugk" target="_blank"> Video</a> |
-      <a href="http://www.juecoo.udd.cl/wp/" target="_blank"> Prototype </a>  
+      <a href="http://www.juecoo.udd.cl/wp/" target="_blank"> Prototype </a>  |
+         <a href="https://arxiv.org/abs/1909.11713" target="_blank"> ArXiv</a> |
+        <a href="https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/55218-strategic-reciprocity-improves-academic-performance-in-public-elementary-school-children/" target="_blank"> Nature Communications</a>
        </li>
    </ul>
   
@@ -58,7 +60,7 @@ Recent Manuscripts
   <br>
 
 <li>
-  The Higher Education Space: Connecting degree programs from individuals' choices. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, and Flávio L. Pinheiro. <br> Published in <strong>EJP Data Science</strong> 2019. <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0218-4" target="_blank"> https://doi.org/10.1140/epjds/s13688-019-0218-4</a>.
+  <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0218-4" target="_blank"> The Higher Education Space: Connecting degree programs from individuals' choices</a>. <br> <strong>Cristian Candia</strong>, Sara Encarnacao, and Flávio L. Pinheiro. <br> Published in <strong>EJP Data Science</strong> 2019.
   <ul> 
    <li> Resources & Media:  <a href="https://www.emol.com/noticias/Nacional/2020/02/24/977398/Radiografia-a-las-postulaciones-universitarias.html" target="_blank">emol (ESP)</a> | <a href="https://complejidadsocial.udd.cl/2019/news/cics-udd-is-awarded-a-fondef-to-develop-a-platform-that-allows-a-better-decision-in-higher-education/" target="_blank">Institutional news (ENG)</a> | 
  <a href="https://dccs.udd.cl/2019/08/28/cics-udd-se-adjudica-fondef-para-desarrollar-plataforma-que-permita-una-mejor-decision-en-la-educacion-superior/" target="_blank">Prensa institucional (ESP)</a> 
