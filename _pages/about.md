@@ -46,9 +46,9 @@ Recent Manuscripts
   <a href="https://www.nature.com/articles/d41586-018-07719-w" target="_blank"> Nature editorial</a> |
   <a href="https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html" target="_blank"> El País</a> | 
              <a href="https://www.elespectador.com/noticias/ciencia/matematicos-midieron-el-declive-de-la-memoria-colectiva-articulo-828519" target="_blank"> El Espectador</a> |
+             <a href="https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html" target="_blank"> emol</a> |
             <a href="https://www.scientificamerican.com/article/a-math-function-describes-how-whole-societies-remember-and-forget/" target="_blank"> Scientific American</a> | 
             <a href="https://www.popsci.com/how-collective-memories-decay/?dom=rss-default&src=syn" target="_blank"> Popular Science</a> | 
-            <a href="https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html" target="_blank"> emol</a> |
             <a href="https://www.cooperativa.cl/noticias/sociedad/ciencia/cientificos-chilenos-demostraron-como-nuestras-canciones-y-personajes-favoritos-dejan-de-serlo/2018-12-11/123529.html" target="_blank"> Cooperativa</a> |
             <a href="https://www.nkj.ru/news/35104/" target="_blank"> NKJ</a> |
            <a href="https://www.vozpopuli.com/altavoz/next/tarda-olvidar-Holocausto_0_1327968057.html" target="_blank"> Vozpopuli</a>
