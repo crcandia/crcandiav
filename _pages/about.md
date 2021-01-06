@@ -20,8 +20,7 @@ My background is physics (B.Sc., Eng., and M.Sc.) and Social Complexity Science 
 
   <br>
 
-
-<iframe width="300" height="154" src="https://w2.countingdownto.com/3257184" frameborder="0"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FSantiago&amp;src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&amp;color=%237986CB&amp;mode=WEEK&amp;showTabs=1&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 Recent Manuscripts
